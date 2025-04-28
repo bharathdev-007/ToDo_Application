@@ -1,4 +1,0 @@
-com\todo_backend\entity\Task.class
-com\todo_backend\controller\TaskController.class
-com\todo_backend\TodoBackendApplication.class
-com\todo_backend\repository\TaskRepository.class
